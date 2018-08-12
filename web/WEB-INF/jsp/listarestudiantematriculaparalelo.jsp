@@ -9,7 +9,7 @@
     </head>
     <body>
         <h1>Pantalla Principal Matricular un estudiante a un Paralelo</h1>
-        <p><a href="insertarEstudiante.htm"> Insertar Estudiante </a></p>
+        <p><a href="index.htm"> Principal </a></p>
         <table border="2">
             <thead>
                 <tr>
