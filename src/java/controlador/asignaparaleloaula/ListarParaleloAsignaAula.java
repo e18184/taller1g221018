@@ -23,7 +23,7 @@ public ModelAndView listarParaleloAsignaAula() {
      ModelAndView mov = new ModelAndView();
     try {
        
-        Paralelo[] par = model.pojo.ParaleloDAO.listParaleloByQuery(null,"nombre");
+        Paralelo[] par = model.pojo.ParaleloDAO.listParaleloByQuery(null,"nombre"); 
         
         
         mov.addObject("datos",par);
