@@ -19,11 +19,6 @@
                     <th>am</th>
                     <th>correo</th>
                     <th>telefono</th>
-                    <!--<th>usuario</th>
-                    <th>contrasena</th>
-                    <th>suspendido</th>
-                    <th>direccion</th>
-                    <th>imagen</th>-->
                     <th> Matricular </th>
                     
                 </tr>
